@@ -1,0 +1,3 @@
+def sorting(lst):
+    lst.sort(key=len)
+    return lst[0]
